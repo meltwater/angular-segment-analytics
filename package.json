@@ -1,6 +1,6 @@
 {
   "name": "@meltwater/angular-segment-analytics",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/meltwater/angular-segment-analytics.git"
@@ -20,7 +20,7 @@
   ],
   "author": "aleross",
   "license": "MIT",
-  "homepage": "https://github.com/meltwater/angular-segment-analytics",
+  "homepage": "https://github.com/aleross/angular-segment-analytics",
   "peerDependencies": {
     "angular": "1.x.x"
   },
